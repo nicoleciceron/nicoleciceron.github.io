@@ -5,7 +5,7 @@ This README will show you on hosting a resume on GitHub pages. The steps in this
 ## Table of Contents
 - [Overview](#audience)
 - [Prerequisites](#prerequisites)
-- [Instructions](#instructions)
+- [Steps](#instructions)
 - [FAQs](#faqs)
 - [More Resources](#more-resources)
 - [Authors and Acknowledgments](#authors-and-acknowledgments)
@@ -15,13 +15,11 @@ This README will show you on hosting a resume on GitHub pages. The steps in this
 [add gif]
 
 ## Prerequisites
-
-### Pre-requisutes
 For this tutorial, you will need two things: 
 1) **a Github account.** If you do not have a GitHub account, you would need to make one by going to this link [https://github.com](https://github.com). This tutorial will use the web version of GitHub. 
 2) **a resume formatted in Markdown**. Your resume will need to be formatted in Markdown. Here is a good resource to learn Markdown: []()
 
-### Steps
+## Steps
 
 1) First, create a repository.
 
@@ -32,3 +30,11 @@ For this tutorial, you will need two things:
 4) You can also add themes on your page using Jekyll templates. Adding themes will automatically add another file in your repository named _config.yml. This just contains the name of the theme that you have chosen.
 
 5) You can edit your yaml file too, to add or edit the page title and description. 
+
+## FAQs
+
+## More Resources
+
+## Authors and Acknowledgements
+
+
