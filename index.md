@@ -9,7 +9,7 @@
 
 ### <font color='steelblue'>RELEVANT WORK EXPERIENCE</font>
 *Junior Programmer*
-<br>**Agriculture and Agri-Food Canada**
+<br>**[Agriculture and Agri-Food Canada](https://www.agr.gc.ca/eng/agriculture-and-agri-food-canada/?id=1395690825741)**
 <br>(Co-op Work Term 1 & 2)
 
 * Worked on front end and back end development with decoupled Drupal for a website     application
@@ -19,7 +19,7 @@
 
 
 ### <font color='steelblue'>ACADEMIC PROJECTS </font>
-**COMP 3020 – Human Computer Interaction**          <br>*SEPTEMBER 2019 – PRESENT*
+**COMP 3020 – Human Computer Interaction**          <br>*SEPTEMBER 2019 – DECEMBER 2019*
 <br>Group project                                                                           
 **Project Description:** An online movie ticketing site where customers can easily purchase movie tickets for nearby cinemas.
 Languages used: HTML and CSS 
