@@ -1,5 +1,20 @@
-## How to host a resume on GitHub pages
-This README will show you on hosting a resume on GitHub pages. The steps in this tutorial also relate to Andrew Etter's book _Modern Technical Writing_ where you can learn about good documentation.
+## Learn the fundamentals of Tech Comm as you learn how to host your own Online Resume on GitHub Pages
+
+This README will show you on hosting a resume on GitHub pages. The steps in this tutorial also relate to Andrew Etter's book _Modern Technical Writing_ where you can learn about about the fundamtals of Techincal communication especially creating good documentation.
+
+## Table of Contents
+- [Overview](#audience)
+- [Prerequisites](#prerequisites)
+- [Instructions](#instructions)
+- [FAQs](#faqs)
+- [More Resources](#more-resources)
+- [Authors and Acknowledgments](#authors-and-acknowledgments)
+
+
+## Overview
+[add gif]
+
+## Prerequisites
 
 ### Pre-requisutes
 For this tutorial, you will need two things: 
