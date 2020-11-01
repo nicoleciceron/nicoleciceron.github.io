@@ -29,7 +29,7 @@ For this tutorial, you will need two things:
 
 4. You can also add themes on your page using Jekyll templates. 
 
-    4.1 Go to your repository's page. On the main tabs, click on **Settings*
+    4.1 Go to your repository's page. On the main tabs, click on **Settings**
     
     4.2 You will be directed to the **Options** tab inside Settings. Scroll down to **GitHub Pages**
     
