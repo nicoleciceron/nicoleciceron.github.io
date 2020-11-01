@@ -21,15 +21,25 @@ For this tutorial, you will need two things:
 
 ## Steps
 
-1) First, create a repository.
+1. First, create a repository.
 
-2) Inside your repository, add the files README.md and index.md. The README file will just contain descriptions on what your page is about. The index file will contain your resume and will be the one displayed on the page.
+2. Inside your repository, add the files README.md and index.md. The README file will just contain descriptions on what your page is about. The index file will contain your resume and will be the one displayed on the page.
 
-3) You can now view your page by going to the link.
+3. You can now view your page by going to the link.
 
-4) You can also add themes on your page using Jekyll templates. Adding themes will automatically add another file in your repository named _config.yml. This just contains the name of the theme that you have chosen.
+4. You can also add themes on your page using Jekyll templates. 
 
-5) You can edit your yaml file too, to add or edit the page title and description. 
+    4.1 Go to your repository's page. On the main tabs, click on **Settings*
+    
+    4.2 You will be directed to the **Options** tab inside Settings. Scroll down to **GitHub Pages**
+    
+    4.3 Click on **Change Theme** under **Theme Chooser**
+    
+    4.4 Select any theme that you like and click **Select Theme**
+
+    Adding themes will automatically add another file in your repository named _config.yml. This just contains the name of the theme that you have chosen.
+
+5. You can edit your yaml file too, to add or edit the page title and description. 
 
 ## FAQs
 
