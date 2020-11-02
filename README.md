@@ -22,7 +22,7 @@ For this tutorial, you will need two things:
 ## Steps
 
 1. First, create a repository.
-    ![repo](Images/Repository.png)
+    ![repo](https://imgur.com/a/NAW85B6)
 
 2. Inside your repository, add the files README.md and index.md. The README file will just contain descriptions on what your page is about. The index file will contain your resume and will be the one displayed on the page.
 
