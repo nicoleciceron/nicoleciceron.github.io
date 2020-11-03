@@ -12,14 +12,13 @@ This README will show you on hosting a resume on GitHub pages in a very simple w
 
 
 ## Overview
-[add gif overview]
 
  > Hosting your resume in a static website is a very simple and portable process. It is always a good idea to host a website because documentations always will always get outdated. It gives you the power to fix any inaccuracies and keep all your content up to date instantly while also making sure that your content has also good quality. GitHub has now made it very easy for users to host static websites through GitHub pages. Using MarkDown, a popular markup language, for formatting your web content along with a site generator such as Jekyll results in a really easy and straighforward process in hosting a static website on GitHub Pages. 
 
 ## Prerequisites
 For this tutorial, you will need two things: 
 1) **a Github account.** If you do not have a GitHub account, you would need to make one by going to this link [https://github.com](https://github.com). This tutorial will use the web version of GitHub. 
-    > GitHub is very popular Distributed Version Control Systems(DVCS). It has a user-friendly interface  that allows for isolated work and has overall good performance in software development. 
+    > GitHub is very popular Distributed Version Control Systems(DVCS). It has a user-friendly interface  that allows for isolated work and has overall good performance in software development. Having your porject live online also means other people can easily contribute to your project and give you tips on how to make your project even better, just like what was mentioned in Andrew Etter's book in the section called 'Help Others Write'.
     
 2) **a resume formatted in Markdown**. Your resume will need to be formatted in Markdown. If you are not yet familiar with MarkDown, I highly suggest you try and learn it. It is a very simple lightweight markup language that you can learn in just a few minutes. A good tutorial on Markdown can be found below this page. 
     > You would also need a MarkDown Editor for this step. There are a lot of available editors that you can use depending on the opearting system you are using. One good editor is [dillinger.io](https://dillinger.io). 
@@ -59,6 +58,8 @@ For this tutorial, you will need two things:
     4.4 Select any theme that you like and click **Select Theme**
     
     ![theme](Images/select-theme.png)
+    
+    > Making static website through static generators such as Jekyll is a simple and portable process. There are many site generators available today such as Sphinx,Hugo, AsciiDoc, etc. These tools will help you create your own functional documentation website. If you have time and if you want to learn more about Jekyll themes, you should consider customizing your theme. You can find different themes on GitHub that you can fork and play around with. 
 
 5. Finally, you can edit your yaml file(_config.yml_) as well, to add or edit the page title and description. Hosting your own static page can be very easy through GitHub Pages and supported Jekyll themes. Since you now have the basic knwoledge of creating your web content using MarkDown, and hosting it on GitHub Pages along with Jekyll themes, you can start to learn more about **Jekyll** and potentially make your own theme for your next static website.
 
@@ -87,5 +88,6 @@ For this tutorial, you will need two things:
     - [Jekyll - Site Generator Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 ## Authors and Acknowledgements
+Author - Nicole Ciceron
 
 
