@@ -89,6 +89,7 @@ For this tutorial, you will need two things:
 
 ## Authors and Acknowledgements
 Author - Nicole Ciceron
+
 Group Members:
  - [Shrey Malhan](https://github.com/Shreymalhan1)
  - [Mohammad Inan](https://github.com/inanintesar)
