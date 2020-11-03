@@ -28,8 +28,7 @@ For this tutorial, you will need two things:
 
 1. First, create a new repository from your GitHub profile. 
     > A repository is a directory where where your files related to your project will be stored. reposritories can either be stored locally or in this case, it would be stored online in GitHub.
-    
-    ![repo](Images/create_repo.gif)
+
 
 2. Inside your repository, add the files **README.md** and **index.md**. The README file will just contain descriptions on what your page is about. For this tutuorial, this file will just conatin a description telling that your site is a sttic website displaying your resume. You can include the process on how you did the process of hosting your site, just like this tutorial. Next, The index file will contain the content you want to be displayed on your static website. In this case, your page will contain your resume that was formatted in Markdown. 
     ![add](Images/add_files.png)    
