@@ -26,7 +26,7 @@ For this tutorial, you will need two things:
 ## Steps
 
 1. First, create a new repository from your GitHub profile. 
-    > A repository is a directory where where your files related to your project will be stored. reposritories can either be stored locally or in this case, it would be stored online in GitHub.
+    > A repository is a directory where your files related to your project will be stored. Repositories can either be stored locally or in this case, it would be stored online in GitHub.
     
     ![repo](Images/add-repo-shortcut.png)
 
