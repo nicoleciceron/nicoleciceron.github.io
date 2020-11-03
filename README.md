@@ -41,7 +41,7 @@ For this tutorial, you will need two things:
 
     ![add_index](Images/add_index.gif)
 
-3. You can now view your page by going to the link: _your-usesrname.gitub.io_. You can also do this by going to **Settings** You can continue editing your **index.md** file if you want to make any more changes in the formatting of your content.
+3. Before you view your static page, you have to go to Settings to specify the Source so you can enable GitHub pages for your repository. In this case, you only currently have the **main** branch so choose this branch. After that, you can now view your page by going to the link: _your-usesrname.gitub.io_. You can also do this by going to **Settings** You can continue editing your **index.md** file if you want to make any more changes in the formatting of your content.
 
 4. You can also add themes on your page using Jekyll templates. Jekyll is a very popular static site generator that easy displays and processes your content, which is formatted in a lightweight markup language, in a working static website without any databases or any installations. There are a handful of [Jekyll themes](https://pages.github.com/themes/) that are supported by GitHub pages that you can use for your own statci website.
 
