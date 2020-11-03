@@ -16,8 +16,6 @@ This README will show you on hosting a resume on GitHub pages in a very simple w
 
  > Hosting your resume in a static website is a very simple and portable process. It is always a good idea to host a website because documentations always will always get outdated. It gives you the power to fix any inaccuracies and keep all your content up to date instantly while also making sure that your content has also good quality. GitHub has now made it very easy for users to host static websites through GitHub pages. Using MarkDown, a popular markup language, for formatting your web content along with a site generator such as Jekyll results in a really easy and straighforward process in hosting a static website on GitHub Pages. 
 
- > This tutorial is an exmaple of a basic functional documentation that is memtioned in Andrew Etter's book. 
-
 ## Prerequisites
 For this tutorial, you will need two things: 
 1) **a Github account.** If you do not have a GitHub account, you would need to make one by going to this link [https://github.com](https://github.com). This tutorial will use the web version of GitHub. 
@@ -31,17 +29,22 @@ For this tutorial, you will need two things:
 1. First, create a new repository from your GitHub profile. 
     > A repository is a directory where where your files related to your project will be stored. reposritories can either be stored locally or in this case, it would be stored online in GitHub.
     
-    ![repo](Images/create_repo.gif)
+    ![repo](Images/add-repo-shortcut.png)
 
 2. Inside your repository, add the files **README.md** and **index.md**. 
     > The README file will just contain descriptions on what your page is about. For this tutuorial, this file will just conatin a description telling that your site is a sttic website displaying your resume. You can include the process on how you did the process of hosting your site, just like this tutorial. 
-    ![add](Images/add_files.png)    
+    
+    ![add](Images/add-two-files.png)    
 
     > Next, The index file will contain the content you want to be displayed on your static website. In this case, your page will contain your resume that was formatted in Markdown. 
 
-    ![add_index](Images/add_index.gif)
+    ![add_index](Images/add-index.gif)
 
-3. Before you view your static page, you have to go to Settings to specify the Source so you can enable GitHub pages for your repository. In this case, you only currently have the **main** branch so choose this branch. After that, you can now view your page by going to the link: _your-usesrname.gitub.io_. You can also do this by going to **Settings** You can continue editing your **index.md** file if you want to make any more changes in the formatting of your content.
+3. Before you view your static page, you have to go to Settings to specify the Source so you can enable GitHub pages for your repository. In this case, you only currently have the **main** branch so choose this branch. After that, you can now view your page by going to the link: _https://your-usesrname.gitub.io_. You can also do this by going to **Settings** You can continue editing your **index.md** file if you want to make any more changes in the formatting of your content.
+
+    ![Source](Images/enable-gh-page.png)
+    
+    > If this is not the first static page you are hosting from your GitHub account, the link of your static website would become: _https://your-usesrname.gitub.io/repository-name_. 
 
 4. You can also add themes on your page using Jekyll templates. Jekyll is a very popular static site generator that easy displays and processes your content, which is formatted in a lightweight markup language, in a working static website without any databases or any installations. There are a handful of [Jekyll themes](https://pages.github.com/themes/) that are supported by GitHub pages that you can use for your own statci website.
 
@@ -54,22 +57,34 @@ For this tutorial, you will need two things:
     4.3 Click on **Change Theme** under **Theme Chooser**
     
     4.4 Select any theme that you like and click **Select Theme**
+    
+    ![theme](Images/select-theme.png)
 
-5. You can edit your yaml file as well, to add or edit the page title and description. 
+5. Finally, you can edit your yaml file(_config.yml_) as well, to add or edit the page title and description. Hosting your own static page can be very easy through GitHub Pages and supported Jekyll themes. Since you now have the basic knwoledge of creating your web content using MarkDown, and hosting it on GitHub Pages along with Jekyll themes, you can start to learn more about **Jekyll** and potentially make your own theme for your next static website.
 
 ## FAQs
-- Why should I use MarkDown for my static website?
-    > MarkDown is a very popular markup language. It is a modern way of formatting web content that translates to HTML. More importantly, as I have mentioned above, it is very easy to learn compared to other markup languages such as AsciiDoc and reStructuredText. YOu can learn it in as fast as 10 minutes. Additionally, it can be used for writing email, notes, and general word processing.
+- **Why should I use MarkDown for my static website?**
+    > MarkDown is a very popular markup language. It is a modern way of formatting web content that translates to HTML. More importantly, as I have mentioned above, it is very easy to learn compared to other markup languages such as AsciiDoc and reStructuredText. You can learn it in as fast as 10 minutes. Additionally, it can be used for writing email, notes, and general word processing.
 
-- Why is my resume not showing up?
-    > If you are unsure why your resume is not showing up, you can go to **Settings** and under the Options tab, the link of your page will be displayed under the GitHub Pages section. This is the same section from where you chose your theme.
+- **Why is my resume not showing up?**
+    > There could be a couple things that are preventing your resume from showing up on your site. 
+    
+   >    1. You might have typed your sttaic page url wrong. Make sure the url is the same from the url displayed under the section **GitHub Pages** in **Settings**.
+   
+   >    2. You might have missed a step in the instructions. Make sure you choose your Source to enable GitHub Pages for your repository as this is a very important step for you to be able to show your resume on your static website.
 
 ## More Resources
+-  [Andrew Etter - Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - Links to good MarkDown Resources:
     - [Overview of Markown](https://www.markdownguide.org/getting-started)
     - [MarkDown Tutorial](https://www.markdowntutorial.com)
     - [MarkDown CheatSheet](https://www.markdownguide.org/cheat-sheet)
--  [Andrew Etter - Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- MarkDown Editors:
+    - [dillinger.io](https://dillinger.io) - Online
+    - [Visual Studio Code](https://code.visualstudio.com/download)
+    - [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
+- Jekyll Resources:
+    - [Jekyll - Site Generator Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 ## Authors and Acknowledgements
 
