@@ -45,7 +45,7 @@ For this tutorial, you will need two things:
 
 4. After that, you can now view your page by going to the link: _https://your-usesrname.gitub.io_. You can also do this by going to **Settings** You can continue editing your **index.md** file if you want to make any more changes in the formatting of your content.
 
-    ![Source](Images/enable-gh-page.png)
+    ![link_page](Images/link.png)
     
     > If this is not the first static page you are hosting from your GitHub account, the link of your static website would become: _https://your-usesrname.gitub.io/repository-name_. 
 
