@@ -24,7 +24,8 @@
 **COMP 3020 – Human Computer Interaction**          <br>*SEPTEMBER 2019 – DECEMBER 2019*
 <br>Group project                                                                           
 **Project Description:** An online movie ticketing site where customers can easily purchase movie tickets for nearby cinemas.
-Languages used: HTML and CSS 
+
+**Languages used:** HTML and CSS 
 
 
 ### <font color='steelblue'>TECHNICAL SKILLS</font>
