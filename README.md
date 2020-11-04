@@ -1,6 +1,6 @@
 ## Learn the fundamentals of Tech Comm as you learn how to host your own Online Resume on GitHub Pages
 
-This README will show you on hosting a resume on GitHub pages in a very simple way. The practical steps in this tutorial also relate to Andrew Etter's book _Modern Technical Writing_ where you can learn about about the fundamtals of Techincal Communication especially creating good documentation.  
+This README will show you how to host a resume on GitHub pages in a very simple way. The practical steps in this tutorial also relate to Andrew Etter's book _Modern Technical Writing_ where you can learn about about the fundamtals of Techincal Communication especially creating a good basic functional documentation.  
 
 ## Table of Contents
 - [Overview](#audience)
@@ -15,7 +15,7 @@ This README will show you on hosting a resume on GitHub pages in a very simple w
 
 ![overview](Images/overview.gif)
 
- > Hosting your resume in a static website is a very simple and portable process. It is always a good idea to host a website because documentations always will always get outdated. It gives you the power to fix any inaccuracies and keep all your content up to date instantly while also making sure that your content has also good quality. GitHub has now made it very easy for users to host static websites through GitHub pages. Using MarkDown, a popular markup language, for formatting your web content along with a site generator such as Jekyll results in a really easy and straighforward process in hosting a static website on GitHub Pages. 
+ > Hosting your resume in a static website is a very simple and portable process. It is always a good idea to host a website because documentations always will always get outdated. It gives you the power to fix any inaccuracies and keep all your content up to date instantly while also making sure that your content has also good quality. GitHub has now made it very easy for users to host static websites through GitHub pages. Using MarkDown, a popular markup language, for formatting your web content along with a site generator such as Jekyll results in a really easy and straightforward process in hosting a static website on GitHub Pages. 
 
 ## Prerequisites
 For this tutorial, you will need two things: 
@@ -32,8 +32,8 @@ For this tutorial, you will need two things:
     
     ![repo](Images/add-repo-shortcut.png)
 
-2. Inside your repository, add the files **README.md** and **index.md**. 
-    > The README file will just contain descriptions on what your page is about. For this tutuorial, this file will just conatin a description telling that your site is a sttic website displaying your resume. You can include the process on how you did the process of hosting your site, just like this tutorial. 
+2. Inside your repository, click on **Add file** and create the files **README.md** and **index.md**. 
+    > The README file will just contain descriptions on what your page is about. For this tutorial, this file will just conatin a description telling that your site is a sttic website displaying your resume. You can include the process on how you did the process of hosting your site, just like this tutorial. 
     
     ![add](Images/add-two-files.png)    
 
@@ -41,15 +41,17 @@ For this tutorial, you will need two things:
 
     ![add_index](Images/add-index.gif)
 
-3. Before you view your static page, you have to go to Settings to specify the Source so you can enable GitHub pages for your repository. In this case, you only currently have the **main** branch so choose this branch.
+3. Before you view your static page, you have to go to **Settings** to specify the Source so you can enable GitHub pages for your repository. In this case, you only currently have the **main** branch so choose this branch.
 
-4. After that, you can now view your page by going to the link: _https://your-usesrname.gitub.io_. You can also do this by going to **Settings** You can continue editing your **index.md** file if you want to make any more changes in the formatting of your content.
+     ![source](Images/enable-gh-page.png)
+
+4. After that, you can now view your page by going to the link: _https://your-usesrname.gitub.io/_. You can also do this by going to **Settings** and you can also continue editing your **index.md** file if you want to make any more changes in the formatting of your content.
 
     ![link_page](Images/link.png)
     
     > If this is not the first static page you are hosting from your GitHub account, the link of your static website would become: _https://your-usesrname.gitub.io/repository-name_. 
 
-5. You can also add themes on your page using Jekyll templates. Jekyll is a very popular static site generator that easy displays and processes your content, which is formatted in a lightweight markup language, in a working static website without any databases or any installations. There are a handful of [Jekyll themes](https://pages.github.com/themes/) that are supported by GitHub pages that you can use for your own statci website.
+5. You can also add themes on your page using Jekyll templates. Jekyll is a very popular static site generator that easy displays and processes your content, which is formatted in a lightweight markup language, in a working static website without any databases or any installations. There are a handful of [Jekyll themes](https://pages.github.com/themes/) that are supported by GitHub pages that you can use for your own static website.
 
     > Adding themes through Jekyll will automatically adds another file in your repository named _config.yml. This file will just contain the name of the theme that you would have chosen.
 
@@ -63,18 +65,18 @@ For this tutorial, you will need two things:
     
     ![theme](Images/select-theme.png)
     
-    > Making static website through static generators such as Jekyll is a simple and portable process. There are many site generators available today such as Sphinx,Hugo, AsciiDoc, etc. These tools will help you create your own functional documentation website. If you have time and if you want to learn more about Jekyll themes, you should consider customizing your theme. You can find different themes on GitHub that you can fork and play around with. 
+    > Making static website through static generators such as Jekyll is a simple and portable process. There are many site generators available today such as Sphinx, Hugo, AsciiDoc, etc. These tools will help you create your own functional documentation website. If you have time and if you want to learn more about Jekyll themes, you should consider customizing your theme. You can find different themes on GitHub that you can fork and play around with. 
 
-6. Finally, you can edit your yaml file(_config.yml_) as well, to add or edit the page title and description. Hosting your own static page can be very easy through GitHub Pages and supported Jekyll themes. Since you now have the basic knwoledge of creating your web content using MarkDown, and hosting it on GitHub Pages along with Jekyll themes, you can start to learn more about **Jekyll** and potentially make your own theme for your next static website.
+6. Finally, you can edit your yaml file(__config.yml_) as well, to add or edit the page title and description. Hosting your own static page can be very easy through GitHub Pages and supported Jekyll themes. Since you now have the basic knwoledge of creating your web content using Markdown, and hosting it on GitHub Pages along with Jekyll themes, you can start to learn more about **Jekyll** and potentially make your own theme for your next static website. :tada:
 
 ## FAQs
 - **Why is Markdown better than a word processor?**
-    > MarkDown is a very popular markup language. It is a modern way of formatting web content that translates to HTML. More importantly, as I have mentioned above, it is very easy to learn compared to other markup languages such as AsciiDoc and reStructuredText. You can learn it in as fast as 10 minutes. Additionally, it can be used for writing email, notes, and general word processing.
+    > Markdown is a very popular markup language. It is a modern way of formatting web content that translates to HTML. It is better than a word processor because it doesn= not just allow you to create more than just resumes and short documents that will be eventually thrown away. It can be used for  for creating documentation, for writing emails or notes, and basically creating anything you can do in word processing. Markdown is also a free tool unlike word processors such as Microsoft Word which costs money. It also gives you the power to host it online which is something that word processors are unable to do. More importantly, it is very easy to learn. 
 
 - **Why is my resume not showing up?**
-    > There could be a couple things that are preventing your resume from showing up on your site. 
+    > There could be a couple things that are preventing your resume from showing up on your static website. 
     
-   >    1. You might have typed your sttaic page url wrong. Make sure the url is the same from the url displayed under the section **GitHub Pages** in **Settings**.
+   >    1. You might have typed your static page URL wrong. Make sure the URL is the same from the URL displayed under the section **GitHub Pages** in **Settings**.
    
    >    2. You might have missed a step in the instructions. Make sure you choose your Source to enable GitHub Pages for your repository as this is a very important step for you to be able to show your resume on your static website.
 
