@@ -3,12 +3,14 @@
 
 ### <font color='steelblue'> EDUCATION </font>
 *Bachelor of Science, Major in Computer Science (Co-op)* 
+<br>_2017 - PRESENT_
 <br>
 **University of Manitoba, Winnipeg, MB**
 
 
 ### <font color='steelblue'>RELEVANT WORK EXPERIENCE</font>
 *Junior Programmer*
+<br>_January 2020 - August 2020_
 <br>**[Agriculture and Agri-Food Canada](https://www.agr.gc.ca/eng/agriculture-and-agri-food-canada/?id=1395690825741)**
 <br>(Co-op Work Term 1 & 2)
 
@@ -39,5 +41,5 @@ Version Control
 Practical experience: Git
 
 ### <font color='steelblue'>EXTRACURRICULAR</font>
-Member – UM Women in Computer Science              <br>*2018 – PRESENT*
+**Member – UM Women in Computer Science**              <br>*2018 – PRESENT*
 <br>University of Manitoba, Winnipeg, MB
